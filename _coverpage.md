@@ -1,7 +1,9 @@
-# Nilsa Talfa<small>'s Notebook</small>
+# Nilsa Talfa's Notebook<small>1.0</small>
 
-> 一个有意思的鬼畜少女。
+> 一个有意思的
 
-[Get Started](#docsify)
+> *鬼畜少女*。
 
-![color](#6A5ACD)
+[Get Started](/README)
+
+![](_media/IMG_20210813_014352007.jpg)
