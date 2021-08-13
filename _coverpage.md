@@ -6,4 +6,4 @@
 
 [Get Started](/README)
 
-![color](#6A5ACD)
+![](_media/IMG_20210813_014352007.jpg)
